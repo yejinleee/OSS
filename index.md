@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 First~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+깃헙에서 Edit하고 commit changes하면 웹페이지에서 바뀌지~
+
 You can use the [editor on GitHub](https://github.com/yejinleee/OSS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
